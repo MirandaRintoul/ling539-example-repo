@@ -1,1 +1,1 @@
-Practice repo
+More detailed readme.
